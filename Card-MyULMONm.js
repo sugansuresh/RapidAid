@@ -1,0 +1,1 @@
+import{s as r,j as t}from"./index-BKPpn_TP.js";async function n(){const{error:s}=await r.auth.signOut();if(s)throw s}function i({children:s,className:a=""}){return t.jsx("div",{className:`bg-white shadow-sm border rounded-lg p-4 ${a}`,children:s})}export{i as C,n as s};
